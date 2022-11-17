@@ -1,0 +1,220 @@
+* {
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+}
+.th {
+    border: 15px;
+    border-style: solid;
+    border-color: white;
+    font-size: large;
+}
+
+header {
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    display: inline-flex;
+    background-color: white;
+}
+
+.accueil {
+    background-color:#336699;
+max-height: 1000px;
+    
+    
+       
+}
+
+.laplateforme1 {
+    margin: 20px;
+    width: 30%;
+    height: 30%;
+
+}
+
+.b {
+    font-size: 30px;
+    color: white;
+    margin: 15px;
+}
+
+p {
+    color: white;
+}
+
+
+#e {
+    margin: 100px;
+}
+
+
+
+#c {
+    display: inline-flex;
+    margin: 20px;
+    width: 50%;
+    height: 50%;
+}
+
+#d {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    
+}
+
+#a  {
+    margin: 20px;
+    width: 25%;
+    height: 25%;
+}
+
+
+.c {
+    margin: 40px;
+    font-size: 40px;
+    color: white;
+}
+
+.d {
+    padding: 10px;
+    margin-left: 90px;
+    font-size: 30px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 50px;
+    height: fit-content;
+    width: fit-content;
+    border-color: #FF2063;
+    background-color: #FF2063;
+    color: white;
+
+
+}
+
+footer {
+    /* border: 20px; */
+    /* border-style: solid;
+    border-color: #313131; */
+    /*border-width: 60px;*/
+    background-color: #313131;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 200px;
+    
+}
+
+.logoplateforme {
+    width: 25%;
+    height: 25%;
+}
+.findepage {
+    color: white;
+    /* padding-left: 500px; */
+    margin: 5px;
+}
+
+.findepage2 {
+color: white;
+/* padding-left: 800px; */
+margin: 5px;
+}
+
+.findepage3 {
+    color: white;
+    margin: 20px;
+}
+
+.blanc {
+    color: white;
+}
+
+/* Fin accueil*/
+
+.qui-sommes-nous {
+    background-color:white
+
+}
+
+.titre {
+    padding-left: 222px;
+}
+
+.droite {
+    margin: 80px;
+    padding-left: 140px;
+    font-size: 20px;
+    color: #7D7D7D;
+    width: 30%;
+}
+
+.gauche {
+    padding-left: 140px;
+    font-size: 20px;
+    color: #7D7D7D;
+    width: 30%;
+}
+
+h1 {
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    margin: 15px;
+    align-items: center;
+    display: inline-flex;
+    flex-direction: row;
+}
+
+.sponsors {
+    padding-left: 140px;
+    margin: 10px;
+}
+.laplateforme {
+    margin: 25px;
+    width: 45%;
+    height: 45%;
+    
+}
+
+/* Fin qui somme-nous ? */
+
+
+.News {
+    background-color: #275FA0;
+}
+
+#news {
+   padding-left: 150px;
+    font-size: 55px;
+    color: white;
+    padding-top: 100px;
+
+}
+
+#new {
+    padding-left: 150px;
+    font-size: 25px;
+    padding-top: 70px;
+  
+}
+
+.video {
+    padding-left: 150px;
+    padding-top: 80px;
+
+}
+
+.div1 {
+    align-items: center;
+    display: inline-flex;
+    flex-direction: row;
+}
+
+
+
